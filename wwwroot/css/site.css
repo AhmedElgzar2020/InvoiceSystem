@@ -1,0 +1,44 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.mrr {
+    margin-right: 3px;
+}
+.mrr2 {
+    margin-right: 3px;
+}
+.btCss {
+    border-radius: 7px;
+}
+.TransBtn {
+    background-color: #084298;
+    color: white;
+}
+
+.OprBtn {
+    background-color: white;
+    color: #084298;
+    border-color: #084298
+}
+th{
+    text-align:center
+}
+td {
+    text-align: center
+}
